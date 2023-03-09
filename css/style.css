@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.navbar a {
+  padding-left: 20px;
+  font-size: 200%;
+  width: 100%;
+  background-color: orange;
+}
+
+.container {
+    
+}
+
+.container button {
+   padding: 50px;
+}
+
+#score {
+    font-size: 400%;
+    background-color: aqua;
+    padding: 200px;
+    text-align: center;
+}
