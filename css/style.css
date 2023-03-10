@@ -1,4 +1,8 @@
-
+body {
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  background-color: black;
+}
 
 .navbar a {
   padding-left: 20px;
@@ -12,15 +16,30 @@
 
 .scores {
     font-size: 300%;
-    background-color: brown;
+    background-color: rgb(187, 73, 73);
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
+}
+
+#block {
+  padding-top: 100px;
 }
 
 .score-info {
   background-color: orange;
 }
 
-#one-pointer {
-  margin-top: 100px;
+.btn {
+  background-color: orange;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+}
+
+#reset {
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
