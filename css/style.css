@@ -1,25 +1,26 @@
-body {
-    margin: 0;
-}
+
 
 .navbar a {
   padding-left: 20px;
   font-size: 200%;
-  width: 100%;
+}
+
+.navbar {
+  margin-bottom: 50px;
   background-color: orange;
 }
 
-.container {
-    
-}
-
-.container button {
-   padding: 50px;
-}
-
-#score {
-    font-size: 400%;
-    background-color: aqua;
-    padding: 200px;
+.scores {
+    font-size: 300%;
+    background-color: brown;
     text-align: center;
+    margin-top: 50px;
+}
+
+.score-info {
+  background-color: orange;
+}
+
+#one-pointer {
+  margin-top: 100px;
 }
